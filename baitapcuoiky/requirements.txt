@@ -1,5 +1,0 @@
-selenium
-undetected-chromedriver
-pandas
-schedule
-openpyxl
